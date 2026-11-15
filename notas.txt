@@ -3,3 +3,5 @@ Capítulo 2: Flujo de trabajo básico
 Capítulo 3: Repositorios remotos
 "Línea agregada por el colaborador"
 "Me gustaría aprender más sobre desarrollo de software e Inteligencia Artificial"
+"Línea desde mi PC"
+
